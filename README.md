@@ -1,4 +1,4 @@
-# 🔐 Secure File System – PyQt5 Desktop Application
+# 🔐 Encrypted File System (EFS)
 
 Ova aplikacija predstavlja **sigurni sistem za autentifikaciju i upravljanje fajlovima** uz upotrebu digitalnih sertifikata, enkripcije i kontrole pristupa. Projekat je razvijen u **Pythonu** koristeći **PyQt5 GUI framework** i **cryptography biblioteku**.
 
