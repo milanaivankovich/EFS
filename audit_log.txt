@@ -1,0 +1,325 @@
+[2025-03-13 11:11:17] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 11:16:39] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 11:25:47] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 11:26:11] User: dj, Action: UPLOAD, Details: Uploaded file: certificate.pem using AES-256-CBC
+[2025-03-13 11:28:08] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 11:28:22] User: dj, Action: DELETE, Details: Deleted file: certificate.pem.enc.hash
+[2025-03-13 11:28:35] User: dj, Action: SHARE, Details: Shared file: public_key_dj.pem
+[2025-03-13 11:32:26] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 11:37:18] User: dj, Action: UPLOAD, Details: Uploaded file: prvi.txt.rtf using AES-256-CBC
+[2025-03-13 11:39:16] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 14:13:14] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-13 14:18:51] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-17 19:25:33] User: dj, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-03-17 19:26:02] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-17 19:27:10] User: masa, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-03-17 19:27:17] User: masa, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-03-17 19:28:18] User: lola2, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-17 19:30:09] User: lola2, Action: UPLOAD, Details: Uploaded file: Zadaci.pdf using ChaCha20
+[2025-03-17 19:30:53] User: lola2, Action: SHARE, Details: Shared file: public_key_lola2.pem
+[2025-03-31 20:04:33] User: dj, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-03-31 20:04:37] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 20:06:03] User: dj, Action: UPLOAD, Details: Uploaded file: 07_Digitalni_potpis.pdf using AES-256-CBC
+[2025-03-31 20:41:56] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 20:48:53] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 20:51:46] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 20:52:40] User: dj, Action: UPLOAD, Details: Uploaded file: transakcije.txt using AES-256-CBC
+[2025-03-31 20:53:22] User: dj, Action: DELETE, Details: Deleted file: prvi.txt.rtf.enc
+[2025-03-31 20:53:27] User: dj, Action: DELETE, Details: Deleted file: 07_Digitalni_potpis.pdf.enc
+[2025-03-31 21:10:56] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:12:58] User: lola5, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-03-31 21:13:13] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:19:45] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:26:48] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:27:44] User: lola5, Action: UPLOAD, Details: Uploaded file: racuni.txt to /Users/milanaivankovic/Documents/kripto/venv/users/lola5/test
+[2025-03-31 21:28:33] User: lola5, Action: UPLOAD, Details: Uploaded file: transakcije.txt to /Users/milanaivankovic/Documents/kripto/venv/users/lola5
+[2025-03-31 21:29:05] User: lola5, Action: DELETE, Details: Deleted: test
+[2025-03-31 21:31:38] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:31:50] User: dj, Action: DELETE, Details: Deleted: certificate.pem.enc
+[2025-03-31 21:55:44] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:57:56] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-03-31 21:58:36] User: dj, Action: UPLOAD, Details: Uploaded file: Zadaci.pdf
+[2025-04-01 11:31:30] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 11:31:56] User: lola5, Action: UPLOAD, Details: Uploaded file: racuni.txt
+[2025-04-01 12:02:15] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:02:38] User: lola5, Action: DELETE, Details: Deleted: transakcije.txt
+[2025-04-01 12:02:44] User: lola5, Action: DELETE, Details: Deleted: .DS_Store
+[2025-04-01 12:06:29] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:13:01] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:17:52] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:25:50] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:25:59] User: dj, Action: DELETE, Details: Deleted: racuni.txt
+[2025-04-01 12:26:05] User: dj, Action: DELETE, Details: Deleted: Zadaci.pdf
+[2025-04-01 12:29:21] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:34:35] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:34:52] User: lola5, Action: UPLOAD, Details: Uploaded file: PJ2 2024-02-07.docx.pdf
+[2025-04-01 12:44:36] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-01 12:44:54] User: lola5, Action: UPLOAD, Details: Uploaded file: 07_Digitalni_potpis.pdf
+[2025-04-01 12:45:11] User: lola5, Action: DOWNLOAD, Details: Downloaded file: 07_Digitalni_potpis.pdf
+[2025-04-01 12:45:16] User: lola5, Action: SHARE, Details: Shared file: 07_Digitalni_potpis.pdf
+[2025-04-02 22:08:44] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:16:46] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:16:46] User: lola5, Action: KEY, Details: Generated and signed public key for lola5
+[2025-04-02 22:16:52] User: lola5, Action: KEY, Details: Published signed public key for lola5
+[2025-04-02 22:17:28] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:17:28] User: dj, Action: KEY, Details: Generated and signed public key for dj
+[2025-04-02 22:17:30] User: dj, Action: KEY, Details: Published signed public key for dj
+[2025-04-02 22:18:22] User: dj, Action: UPLOAD, Details: Uploaded file: Figure_1.png
+[2025-04-02 22:18:32] User: dj, Action: SHARE, Details: Shared file: Figure_1.png with lola5
+[2025-04-02 22:19:22] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:23:33] User: masa3, Action: KEY, Details: Generated and signed public key for masa3
+[2025-04-02 22:23:50] User: masa3, Action: KEY, Details: Published signed public key for masa3
+[2025-04-02 22:24:43] User: masa3, Action: UPLOAD, Details: Uploaded file: racuni.txt
+[2025-04-02 22:24:54] User: masa3, Action: SHARE, Details: Shared file: racuni.txt with dj
+[2025-04-02 22:25:59] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:26:59] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:32:16] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:39:04] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:49:31] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:50:35] User: lola5, Action: UPLOAD, Details: Uploaded file: PJ2-25-09-2024.pdf
+[2025-04-02 22:53:14] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:53:31] User: dj, Action: UPLOAD, Details: Uploaded file: Zadaci.pdf
+[2025-04-02 22:53:45] User: dj, Action: SHARE, Details: Shared file: Zadaci.pdf with masa3
+[2025-04-02 22:54:24] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:54:55] User: masa3, Action: SHARE, Details: Shared file: racuni.txt with lola5
+[2025-04-02 22:55:34] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-02 22:55:45] User: masa3, Action: DOWNLOAD, Details: Downloaded file: racuni.txt
+[2025-04-03 10:57:54] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-03 11:05:57] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-03 11:06:13] User: lola5, Action: SHARE, Details: Shared file: PJ2-25-09-2024.pdf with masa3
+[2025-04-03 11:06:55] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-03 11:07:17] User: masa3, Action: DOWNLOAD, Details: Downloaded file: PJ2-25-09-2024.pdf_lola5_to_masa3.enc
+[2025-04-03 11:07:50] User: masa3, Action: SHARE, Details: Shared file: racuni.txt with lola5
+[2025-04-03 11:08:35] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-03 11:08:47] User: lola5, Action: DOWNLOAD, Details: Downloaded file: racuni.txt_masa3_to_lola5.enc
+[2025-04-03 21:54:04] User: testuser, Action: KEY, Details: Generated and signed public key for testuser
+[2025-04-03 21:54:56] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-03 21:55:31] User: lola5, Action: UPLOAD, Details: Uploaded file: Zadaci.pdf
+[2025-04-03 21:55:40] User: lola5, Action: SHARE, Details: Shared file: Zadaci.pdf with masa3
+[2025-04-03 21:56:12] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-03 21:56:29] User: masa3, Action: DOWNLOAD, Details: Downloaded file: Zadaci.pdf_lola5_to_masa3.enc
+[2025-04-15 10:14:56] User: milica, Action: KEY, Details: Generated and signed public key for milica
+[2025-04-15 10:15:17] User: milica, Action: UPLOAD, Details: Uploaded file: 2025_02_KRZ.pdf
+[2025-04-15 10:15:23] User: milica, Action: KEY, Details: Published signed public key for milica
+[2025-04-15 10:15:48] User: milica, Action: SHARE, Details: Shared file: 2025_02_KRZ.pdf with dj
+[2025-04-15 10:16:57] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:18:11] User: masa3, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-15 10:18:15] User: masa3, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-15 10:18:19] User: masa3, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-15 10:18:23] User: masa3, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-15 10:18:29] User: masa3, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-15 10:19:05] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:19:34] User: lola5, Action: DOWNLOAD, Details: Downloaded file: racuni.txt_masa3_to_lola5.enc
+[2025-04-15 10:23:33] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:23:38] User: lola5, Action: KEY, Details: Published signed public key for lola5
+[2025-04-15 10:23:53] User: lola5, Action: SHARE, Details: Shared file: Zadaci.pdf with milica
+[2025-04-15 10:24:27] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:24:43] User: milica, Action: DOWNLOAD, Details: Downloaded file: Zadaci.pdf_lola5_to_milica.enc
+[2025-04-15 10:26:31] User: dj, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:27:47] User: milica, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-04-15 10:27:56] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:27:58] User: milica, Action: KEY, Details: Published signed public key for milica
+[2025-04-15 10:28:10] User: milica, Action: SHARE, Details: Shared file: 2025_02_KRZ.pdf with lola5
+[2025-04-15 10:28:40] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:29:52] User: ana, Action: KEY, Details: Generated and signed public key for ana
+[2025-04-15 10:30:21] User: ana, Action: UPLOAD, Details: Uploaded file: 08_Digitalni_sertifikati_i_PKI_II_dio.pdf
+[2025-04-15 10:30:31] User: ana, Action: DOWNLOAD, Details: Downloaded file: 08_Digitalni_sertifikati_i_PKI_II_dio.pdf
+[2025-04-15 10:30:38] User: ana, Action: KEY, Details: Published signed public key for ana
+[2025-04-15 10:30:50] User: ana, Action: SHARE, Details: Shared file: 08_Digitalni_sertifikati_i_PKI_II_dio.pdf with lola5
+[2025-04-15 10:31:30] User: lola5, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-04-15 10:32:06] User: lola5, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-04-15 10:32:35] User: lola5, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-04-15 10:33:25] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:33:51] User: luka, Action: KEY, Details: Generated and signed public key for luka
+[2025-04-15 10:34:12] User: luka, Action: UPLOAD, Details: Uploaded file: PJ2 2023-04-26.docx
+[2025-04-15 10:34:15] User: luka, Action: KEY, Details: Published signed public key for luka
+[2025-04-15 10:34:29] User: luka, Action: SHARE, Details: Shared file: PJ2 2023-04-26.docx with milica
+[2025-04-15 10:35:01] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:35:38] User: milica, Action: DOWNLOAD, Details: Downloaded file: PJ2 2023-04-26.docx_luka_to_milica.enc
+[2025-04-15 10:36:54] User: ana, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:37:54] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:40:37] User: ana, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:40:44] User: ana, Action: SHARE, Details: Shared file: 08_Digitalni_sertifikati_i_PKI_II_dio.pdf with milica
+[2025-04-15 10:41:25] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:42:29] User: luka, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:42:32] User: luka, Action: KEY, Details: Published signed public key for luka
+[2025-04-15 10:42:51] User: luka, Action: SHARE, Details: Shared file: PJ2 2023-04-26.docx with ana
+[2025-04-15 10:43:14] User: ana, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:43:37] User: ana, Action: DOWNLOAD, Details: Downloaded file: PJ2 2023-04-26.docx_luka_to_ana.enc
+[2025-04-15 10:44:46] User: ana, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:44:48] User: ana, Action: KEY, Details: Published signed public key for ana
+[2025-04-15 10:45:06] User: ana, Action: SHARE, Details: Shared file: 08_Digitalni_sertifikati_i_PKI_II_dio.pdf with luka
+[2025-04-15 10:45:34] User: luka, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:45:54] User: luka, Action: KEY, Details: Published signed public key for luka
+[2025-04-15 10:47:26] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:47:41] User: masa3, Action: DOWNLOAD, Details: Downloaded file: PJ2-25-09-2024.pdf_lola5_to_masa3.enc
+[2025-04-15 10:48:15] User: masa3, Action: DOWNLOAD, Details: Downloaded file: Zadaci.pdf_lola5_to_masa3.enc
+[2025-04-15 10:48:26] User: masa3, Action: DELETE, Details: Deleted: PJ2-25-09-2024.pdf_lola5_to_masa3.enc
+[2025-04-15 10:48:42] User: masa3, Action: DELETE, Details: Deleted: Zadaci.pdf_masa3.enc
+[2025-04-15 10:48:56] User: masa3, Action: DELETE, Details: Deleted: 07_Digitalni_potpis.pdf
+[2025-04-15 10:49:05] User: masa3, Action: DELETE, Details: Deleted: Figure_1.png_lola5.enc
+[2025-04-15 10:49:31] User: masa3, Action: DELETE, Details: Deleted: racuni.txt_dj.enc
+[2025-04-15 10:49:41] User: masa3, Action: DELETE, Details: Deleted: racuni.txt_lola5.enc
+[2025-04-15 10:50:31] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:51:10] User: milica, Action: KEY, Details: Published signed public key for milica
+[2025-04-15 10:51:20] User: milica, Action: DELETE, Details: Deleted: 08_Digitalni_sertifikati_i_PKI_II_dio.pdf_ana_to_milica.enc
+[2025-04-15 10:52:33] User: lola5, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-04-15 10:52:46] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:53:12] User: lola5, Action: UPLOAD, Details: Uploaded file: Figure_1.png
+[2025-04-15 10:53:22] User: lola5, Action: SHARE, Details: Shared file: Figure_1.png with masa3
+[2025-04-15 10:54:13] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 10:57:33] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:04:18] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:04:31] User: lola5, Action: KEY, Details: Verified existing signed public key for lola5
+[2025-04-15 11:04:35] User: lola5, Action: SIGN, Details: Signed file users/lola5/Figure_1.png.shared.enc for lola5
+[2025-04-15 11:04:35] User: lola5, Action: SHARE, Details: Shared file: Figure_1.png with ana
+[2025-04-15 11:04:59] User: ana, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:10:06] User: luka, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:10:27] User: luka, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/mvi/211.png for luka
+[2025-04-15 11:10:27] User: luka, Action: UPLOAD, Details: Uploaded file: 211.png
+[2025-04-15 11:10:32] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:10:33] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:10:33] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:10:33] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:10:34] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:10:49] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:10:49] User: luka, Action: SIGN, Details: Signed file users/luka/211.png.shared.enc for luka
+[2025-04-15 11:10:49] User: luka, Action: SHARE, Details: Shared file: 211.png with milica
+[2025-04-15 11:11:17] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:11:36] User: milica, Action: DOWNLOAD, Details: Downloaded file: 211.png_luka_to_milica.enc
+[2025-04-15 11:12:40] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:12:48] User: masa3, Action: DELETE, Details: Deleted: Figure_1.png_lola5_to_masa3.enc
+[2025-04-15 11:13:36] User: lola5, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:13:44] User: lola5, Action: KEY, Details: Verified existing signed public key for lola5
+[2025-04-15 11:13:44] User: lola5, Action: SIGN, Details: Signed file users/lola5/Figure_1.png.shared.enc for lola5
+[2025-04-15 11:13:44] User: lola5, Action: SHARE, Details: Shared file: Figure_1.png with masa3
+[2025-04-15 11:14:14] User: masa3, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:14:55] User: luka, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:15:40] User: luka, Action: SIGN, Details: Signed file /Users/milanaivankovic/Desktop/Screenshot 2025-04-11 at 23.10.58.png for luka
+[2025-04-15 11:15:40] User: luka, Action: UPLOAD, Details: Uploaded file: Screenshot 2025-04-11 at 23.10.58.png
+[2025-04-15 11:15:50] User: luka, Action: KEY, Details: Verified existing signed public key for luka
+[2025-04-15 11:15:51] User: luka, Action: SIGN, Details: Signed file users/luka/Screenshot 2025-04-11 at 23.10.58.png.shared.enc for luka
+[2025-04-15 11:15:51] User: luka, Action: SHARE, Details: Shared file: Screenshot 2025-04-11 at 23.10.58.png with milica
+[2025-04-15 11:16:23] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:16:40] User: milica, Action: DOWNLOAD, Details: Downloaded file: Screenshot 2025-04-11 at 23.10.58.png_luka_to_milica.enc
+[2025-04-15 11:18:42] User: miha, Action: KEY, Details: Generated and signed public key for miha
+[2025-04-15 11:18:49] User: miha, Action: KEY, Details: Verified existing signed public key for miha
+[2025-04-15 11:19:32] User: kris, Action: KEY, Details: Generated and signed public key for kris
+[2025-04-15 11:20:05] User: kris, Action: SIGN, Details: Signed file /Users/milanaivankovic/Documents/java_pismeni2/pj2_28062024/batter_vehicle.txt for kris
+[2025-04-15 11:20:05] User: kris, Action: UPLOAD, Details: Uploaded file: batter_vehicle.txt
+[2025-04-15 11:20:14] User: kris, Action: KEY, Details: Verified existing signed public key for kris
+[2025-04-15 11:20:14] User: kris, Action: SIGN, Details: Signed file users/kris/batter_vehicle.txt.shared.enc for kris
+[2025-04-15 11:20:14] User: kris, Action: SHARE, Details: Shared file: batter_vehicle.txt with miha
+[2025-04-15 11:20:41] User: miha, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:22:33] User: miha, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:22:53] User: miha, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/kriptografija/kriptoPredavanja/01_Uvod.pdf for miha
+[2025-04-15 11:22:53] User: miha, Action: UPLOAD, Details: Uploaded file: 01_Uvod.pdf
+[2025-04-15 11:23:04] User: miha, Action: KEY, Details: Verified existing signed public key for miha
+[2025-04-15 11:23:05] User: miha, Action: SIGN, Details: Signed file users/miha/01_Uvod.pdf.shared.enc for miha
+[2025-04-15 11:23:05] User: miha, Action: SHARE, Details: Shared file: 01_Uvod.pdf with kris
+[2025-04-15 11:24:00] User: kris, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:24:32] User: kris, Action: DELETE, Details: Deleted: 01_Uvod.pdf_miha_to_kris.enc
+[2025-04-15 11:24:44] User: kris, Action: DELETE, Details: Deleted: batter_vehicle.txt_kris_to_miha.enc
+[2025-04-15 11:33:15] User: alice, Action: SIGN, Details: Signed file users/alice/public_key_alice.pem for alice
+[2025-04-15 11:33:15] User: alice, Action: KEY, Details: Published signed public key for alice
+[2025-04-15 11:33:40] User: alice, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/proizvodi.csv for alice
+[2025-04-15 11:33:40] User: alice, Action: UPLOAD, Details: Uploaded file: proizvodi.csv
+[2025-04-15 11:33:52] User: bob, Action: SIGN, Details: Signed file users/bob/public_key_bob.pem for bob
+[2025-04-15 11:33:52] User: bob, Action: KEY, Details: Published signed public key for bob
+[2025-04-15 11:34:42] User: bob, Action: SIGN, Details: Signed file /Users/milanaivankovic/Documents/java_pismeni2/pj2_28062024/batter_vehicle.txt for bob
+[2025-04-15 11:34:42] User: bob, Action: UPLOAD, Details: Uploaded file: batter_vehicle.txt
+[2025-04-15 11:34:51] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-15 11:34:51] User: bob, Action: SIGN, Details: Signed file users/bob/batter_vehicle.txt.shared.enc for bob
+[2025-04-15 11:34:51] User: bob, Action: SHARE, Details: Shared file: batter_vehicle.txt with alice
+[2025-04-15 11:35:24] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:35:24] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 11:35:31] User: alice, Action: ERROR, Details: Sender's public key not found at users/public_keys/public_key_vehicle.txt.pem
+[2025-04-15 11:43:44] User: milica, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:43:44] User: milica, Action: KEY, Details: Verified existing signed public key for milica
+[2025-04-15 11:43:47] User: milica, Action: DEBUG, Details: Parsed file PJ2 2023-04-26.docx_luka_to_milica.enc: sender=luka, recipient=milica.enc
+[2025-04-15 11:45:05] User: bob, Action: SIGN, Details: Signed file users/bob/public_key_bob.pem for bob
+[2025-04-15 11:45:05] User: bob, Action: KEY, Details: Published signed public key for bob
+[2025-04-15 11:45:30] User: bob, Action: SIGN, Details: Signed file /Users/milanaivankovic/Documents/java_pismeni2/pj2_28062024/batter_vehicle.txt for bob
+[2025-04-15 11:45:30] User: bob, Action: UPLOAD, Details: Uploaded file: batter_vehicle.txt
+[2025-04-15 11:45:58] User: alice, Action: SIGN, Details: Signed file users/alice/public_key_alice.pem for alice
+[2025-04-15 11:45:58] User: alice, Action: KEY, Details: Published signed public key for alice
+[2025-04-15 11:46:20] User: alice, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/Milana_Ivankovic /Izvjestaj.pdf for alice
+[2025-04-15 11:46:20] User: alice, Action: UPLOAD, Details: Uploaded file: Izvjestaj.pdf
+[2025-04-15 11:46:30] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 11:46:30] User: alice, Action: SIGN, Details: Signed file users/alice/Izvjestaj.pdf.shared.enc for alice
+[2025-04-15 11:46:30] User: alice, Action: SHARE, Details: Shared file: Izvjestaj.pdf with bob
+[2025-04-15 11:47:00] User: bob, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:47:00] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-15 11:47:41] User: bob, Action: ERROR, Details: User bob is not the intended recipient of batter_vehicle.txt_bob_to_alice.enc
+[2025-04-15 11:47:46] User: bob, Action: DELETE, Details: Deleted: batter_vehicle.txt_bob_to_alice.enc
+[2025-04-15 11:47:57] User: bob, Action: DEBUG, Details: Parsed file Izvjestaj_pdf_alice_to_bob.enc: sender=alice, recipient=bob.enc
+[2025-04-15 11:48:03] User: bob, Action: DOWNLOAD, Details: Downloaded file: Izvjestaj_pdf_alice_to_bob.enc
+[2025-04-15 11:48:20] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-15 11:48:20] User: bob, Action: SIGN, Details: Signed file users/bob/batter_vehicle.txt.shared.enc for bob
+[2025-04-15 11:48:20] User: bob, Action: SHARE, Details: Shared file: batter_vehicle.txt with alice
+[2025-04-15 11:48:54] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 11:48:54] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 11:49:04] User: alice, Action: DEBUG, Details: Parsed file batter_vehicle_txt_bob_to_alice.enc: sender=bob, recipient=alice.enc
+[2025-04-15 11:49:10] User: alice, Action: DOWNLOAD, Details: Downloaded file: batter_vehicle_txt_bob_to_alice.enc
+[2025-04-15 12:11:06] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 12:11:06] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 12:11:29] User: alice, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/pj2/predavanja/8/08_kolekcije.pdf for alice
+[2025-04-15 12:11:29] User: alice, Action: UPLOAD, Details: Uploaded file: 08_kolekcije.pdf
+[2025-04-15 12:11:41] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 12:11:42] User: alice, Action: SIGN, Details: Signed file users/alice/08_kolekcije.pdf.shared.enc for alice
+[2025-04-15 12:11:42] User: alice, Action: SHARE, Details: Shared file: 08_kolekcije.pdf with bob
+[2025-04-15 12:12:26] User: bob, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 12:12:26] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-15 12:12:33] User: bob, Action: DEBUG, Details: Parsed file 08_kolekcije_pdf_alice_to_bob.enc: sender=alice, recipient=bob.enc
+[2025-04-15 12:12:37] User: bob, Action: DOWNLOAD, Details: Downloaded file: 08_kolekcije_pdf_alice_to_bob.enc
+[2025-04-15 14:15:58] User: bob, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 14:15:58] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-15 14:16:31] User: bob, Action: SIGN, Details: Signed file /Users/milanaivankovic/Documents/pozadina1.png for bob
+[2025-04-15 14:16:31] User: bob, Action: UPLOAD, Details: Uploaded file: pozadina1.png
+[2025-04-15 14:16:38] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-15 14:16:39] User: bob, Action: SIGN, Details: Signed file users/bob/pozadina1.png.shared.enc for bob
+[2025-04-15 14:16:39] User: bob, Action: SHARE, Details: Shared file: pozadina1.png with alice
+[2025-04-15 14:17:13] User: alice, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid certificate path
+[2025-04-15 14:17:19] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 14:17:19] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 14:17:31] User: alice, Action: DEBUG, Details: Parsed file pozadina1_png_bob_to_alice.enc: sender=bob, recipient=alice.enc
+[2025-04-15 14:17:47] User: alice, Action: DOWNLOAD, Details: Downloaded file: pozadina1_png_bob_to_alice.enc
+[2025-04-15 14:18:41] User: jack, Action: SIGN, Details: Signed file users/jack/public_key_jack.pem for jack
+[2025-04-15 14:18:41] User: jack, Action: KEY, Details: Published signed public key for jack
+[2025-04-15 14:18:45] User: jack, Action: KEY, Details: Verified existing signed public key for jack
+[2025-04-15 14:19:28] User: alice, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-15 14:19:35] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 14:19:35] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 14:19:43] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-15 14:19:44] User: alice, Action: SIGN, Details: Signed file users/alice/Izvjestaj.pdf.shared.enc for alice
+[2025-04-15 14:19:44] User: alice, Action: SHARE, Details: Shared file: Izvjestaj.pdf with jack
+[2025-04-15 14:20:12] User: jack, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-15 14:20:12] User: jack, Action: KEY, Details: Verified existing signed public key for jack
+[2025-04-15 14:20:19] User: jack, Action: DEBUG, Details: Parsed file Izvjestaj_pdf_alice_to_jack.enc: sender=alice, recipient=jack.enc
+[2025-04-15 14:20:33] User: jack, Action: DOWNLOAD, Details: Downloaded file: Izvjestaj_pdf_alice_to_jack.enc
+[2025-04-16 07:59:54] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-16 07:59:54] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-16 08:00:06] User: alice, Action: DEBUG, Details: Parsed file batter_vehicle_txt_bob_to_alice.enc: sender=bob, recipient=alice.enc
+[2025-04-16 08:17:03] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-16 08:17:03] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-16 08:17:45] User: alice, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/ps/Django_mvc.png for alice
+[2025-04-16 08:17:45] User: alice, Action: UPLOAD, Details: Uploaded file: Django_mvc.png
+[2025-04-16 08:18:30] User: alice, Action: SIGN, Details: Signed file /Users/milanaivankovic/Downloads/mvi/2.png for alice
+[2025-04-16 08:18:30] User: alice, Action: UPLOAD, Details: Uploaded file: 2.png
+[2025-04-16 08:18:37] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-16 08:18:38] User: alice, Action: SIGN, Details: Signed file users/alice/2.png.shared.enc for alice
+[2025-04-16 08:18:38] User: alice, Action: SHARE, Details: Shared file: 2.png with bob
+[2025-04-16 08:19:04] User: bob, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-16 08:19:04] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-16 08:19:45] User: bob, Action: DEBUG, Details: Parsed file 2_png_alice_to_bob.enc: sender=alice, recipient=bob.enc
+[2025-04-16 08:19:51] User: bob, Action: DOWNLOAD, Details: Downloaded file: 2_png_alice_to_bob.enc
+[2025-04-16 08:26:27] User: alice, Action: LOGIN_ATTEMPT, Details: FAILED: Invalid password
+[2025-04-16 08:26:31] User: alice, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-16 08:26:31] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-16 08:27:41] User: alice, Action: KEY, Details: Verified existing signed public key for alice
+[2025-04-16 08:27:41] User: alice, Action: SIGN, Details: Signed file users/alice/Django_mvc.png.shared.enc for alice
+[2025-04-16 08:27:41] User: alice, Action: SHARE, Details: Shared file: Django_mvc.png with bob
+[2025-04-16 08:28:19] User: bob, Action: LOGIN_ATTEMPT, Details: SUCCESS
+[2025-04-16 08:28:19] User: bob, Action: KEY, Details: Verified existing signed public key for bob
+[2025-04-16 08:28:30] User: bob, Action: DEBUG, Details: Parsed file Django_mvc_png_alice_to_bob.enc: sender=alice, recipient=bob.enc
+[2025-04-16 08:28:42] User: bob, Action: DOWNLOAD, Details: Downloaded file: Django_mvc_png_alice_to_bob.enc
