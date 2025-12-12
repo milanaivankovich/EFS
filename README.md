@@ -1,50 +1,45 @@
 # 🔐 Encrypted File System (EFS)
+This application is a secure authentication and file-management system built using digital certificates, encryption, and access-control mechanisms.
+The project is developed in Python, using the PyQt5 GUI framework and the cryptography library.
+The system includes a complete PKI infrastructure with certificate generation, validation, and revocation.
+# ⚙️ Features
+## 🧾 Registration (register.py)
+- Creates a new user and stores data in users.txt
+- Generates a public/private key pair and a digital certificate
+- Encrypts the private key using AES symmetric encryption
+- Hashes the password using multiple hash functions (SHA-256, SHA-512, BLAKE2b)
+## 🔑 Login (login.py)
+### Authenticates a user based on:
+- username
+- password (hash verification)
+- path to their digital certificate
+### Performs validation checks:
+- certificate validity (expiration date)
+- certificate revocation status (CRL check)
+- successful decryption of the private key
+### Logs all actions to audit_log.txt
+## 🗂️ Secure File System (secureFileSystem.py)
+Allows file operations after a successful login:
+- reading, writing, and deleting files
+- secure encryption and decryption of file contents
+  
+All data is accessible only to the authenticated user
 
-Ova aplikacija predstavlja **sigurni sistem za autentifikaciju i upravljanje fajlovima** uz upotrebu digitalnih sertifikata, enkripcije i kontrole pristupa. Projekat je razvijen u **Pythonu** koristeći **PyQt5 GUI framework** i **cryptography biblioteku**.
+## 💾 Database Layer (database.py)
+Handles reading and writing of user data from users.txt
+Designed to be easily extendable to a future SQLite implementation
 
+## 🧠 Security Mechanisms
 
----
-
-## ⚙️ Funkcionalnosti
-
-### 🧾 Registracija (`register.py`)
-- Kreira novog korisnika i upisuje podatke u `users.txt`
-- Generiše **par ključeva (javnog i privatnog)** i digitalni sertifikat
-- Privatni ključ se enkriptuje pomoću **AES simetrične enkripcije**
-- Lozinka se hešira pomoću više hash funkcija (`SHA-256`, `SHA-512`, `BLAKE2b`)
-
-### 🔑 Prijava (`login.py`)
-- Autentifikuje korisnika na osnovu:
-  - korisničkog imena
-  - lozinke (heš provjera)
-  - putanje do digitalnog sertifikata
-- Provjerava:
-  - ispravnost sertifikata (datum važenja)
-  - da sertifikat nije opozvan (CRL)
-  - uspješno dešifrovanje privatnog ključa
-- Svaka akcija se bilježi u **audit_log.txt** fajl
-
-### 🗂️ Secure File System (`secureFileSystem.py`)
-- Omogućava rad s fajlovima nakon prijave:
-  - čitanje, pisanje i brisanje fajlova
-  - sigurnu enkripciju i dekripciju podataka
-- Svi podaci su dostupni samo prijavljenom korisniku
-
-### 💾 Baza podataka (`database.py`)
-- Implementira mehanizme za čuvanje i čitanje korisničkih podataka iz `users.txt`
-- Može se lako proširiti na SQLite bazu u budućim verzijama
-
----
-
-## 🧠 Sigurnosni mehanizmi
-
-| Mehanizam | Opis |
+| Mechanism	 | Description |
 |------------|------|
-| **Hashing** | Lozinke se čuvaju u heširanom obliku pomoću SHA-256, SHA-512 i BLAKE2b |
-| **AES enkripcija** | Privatni ključevi se čuvaju enkriptovani pomoću AES (CBC mod) |
-| **Digitalni sertifikati** | Autentifikacija korisnika zasnovana na X.509 sertifikatima |
-| **CRL (Certificate Revocation List)** | Sertifikati koji su opozvani čuvaju se u `crl/` folderu |
-| **Audit log** | Sve akcije (pokušaji prijave, greške, uspjesi) bilježe se u `audit_log.txt` |
+| **Password Hashing** | 	Passwords are stored as hashes using SHA-256, SHA-512, and BLAKE2b
+| **AES Encryption** |	Private keys are encrypted using AES (CBC mode)
+| **Digital Certificates** |	User authentication is based on X.509 certificates
+| **CRL (Certificate Revocation List)** |	Revoked certificates are stored in the crl/ directory
+| **Audit Logging** |	All actions (login attempts, errors, successful operations) are recorded in audit_log.txt
+| **PKI Infrastructure** |	Includes certificate creation, signing, validation, and revocation using a custom Certification Authority (CA)
+
 
 
 
